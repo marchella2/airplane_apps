@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019758005589",
+    "project_id": "airplane-4f507",
+    "storage_bucket": "airplane-4f507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019758005589:android:69b7b4d2e1d7ba6219f3dc",
+        "android_client_info": {
+          "package_name": "com.learning.airplane_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1eFUyl0mByCNT49VCM8DCDgRRDnGGUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
